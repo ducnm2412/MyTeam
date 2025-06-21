@@ -242,7 +242,7 @@ ul.social-icons {
   margin-right: 1%;
 }
 .social-icons li a {
-  background: url(/049205010492_VoTranNgocAnh/img/social-icons2.png) no-repeat
+  background: url(../img/social-icons2.png) no-repeat
     3px 3px;
   display: block;
   height: 32px;
@@ -499,7 +499,7 @@ span.border.one:after {
 .about-right {
   float: left;
   padding: 0;
-  background: url(/049205010492_VoTranNgocAnh/img/myphoto.jpg) no-repeat 0px 0px;
+  background: url(../img/myphoto.jpg) no-repeat 0px 0px;
   min-height: 580px;
   background-size: cover;
   -o-background-size: cover;
@@ -1109,7 +1109,7 @@ span.border.two:after {
 }
 /*-- footer --*/
 .footer {
-  background: url(/049205010492_VoTranNgocAnh/img/contact.jpeg) no-repeat center
+  background: url(../img/contact.jpeg) no-repeat center
     top;
   background-size: cover;
   -webkit-background-size: cover;
@@ -1159,7 +1159,7 @@ span.border.two:after {
   height: 32px;
   border: none;
   text-indent: 100%;
-  background: url("/049205010492_VoTranNgocAnh/img/movetop.png") no-repeat 0px
+  background: url("../img/movetop.png") no-repeat 0px
     0px;
 }
 #toTopHover {
